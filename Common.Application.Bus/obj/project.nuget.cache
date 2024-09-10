@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JU1t7b2ypoY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\C#\\ESCMB1.PAII\\Common.Application.Bus\\Common.Application.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
