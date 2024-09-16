@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Common.Application.Bus.notifications
 {
-    internal interface IRequestNotification
+    public interface IRequestNotification
     {
     }
 }

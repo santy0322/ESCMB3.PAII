@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Common.Application.Bus.queries
 {
-    internal interface IRequestQuery
+    public interface IRequestQuery<TResponse> where TResponse : class
     {
     }
 }

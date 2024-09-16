@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 
 namespace Common.Application.Bus.notifications
 {
-    internal interface IRequestNotificationHandler<in TRequest, TResponse> where TRequest : IRequest<TResponse>
-    {
+    public interface IRequestNotificationHandler<in TRequest, TResponse> where TRequest : IRequest<TResponse>
     {
     }
 }
