@@ -1,0 +1,12 @@
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Bus\bin\Debug\net6.0\Common.Application.Bus.deps.json
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Bus\bin\Debug\net6.0\Common.Application.Bus.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Bus\bin\Debug\net6.0\Common.Application.Bus.pdb
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Bus\obj\Debug\net6.0\Common.Application.Bus.csproj.AssemblyReference.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Bus\obj\Debug\net6.0\Common.Application.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Bus\obj\Debug\net6.0\Common.Application.Bus.AssemblyInfoInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Bus\obj\Debug\net6.0\Common.Application.Bus.AssemblyInfo.cs
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Bus\obj\Debug\net6.0\Common.Application.Bus.csproj.CoreCompileInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Bus\obj\Debug\net6.0\Common.Application.Bus.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Bus\obj\Debug\net6.0\refint\Common.Application.Bus.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Bus\obj\Debug\net6.0\Common.Application.Bus.pdb
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Bus\obj\Debug\net6.0\ref\Common.Application.Bus.dll

@@ -1,0 +1,5 @@
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Mapping\obj\Debug\net6.0\Common.Application.Mapping.csproj.AssemblyReference.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Mapping\obj\Debug\net6.0\Common.Application.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Mapping\obj\Debug\net6.0\Common.Application.Mapping.AssemblyInfoInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Mapping\obj\Debug\net6.0\Common.Application.Mapping.AssemblyInfo.cs
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Mapping\obj\Debug\net6.0\Common.Application.Mapping.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.HTTP\bin\Debug\net6.0\Common.Infraestructure.HTTP.deps.json
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.HTTP\bin\Debug\net6.0\Common.Infraestructure.HTTP.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.HTTP\bin\Debug\net6.0\Common.Infraestructure.HTTP.pdb
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.HTTP\obj\Debug\net6.0\Common.Infraestructure.HTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.HTTP\obj\Debug\net6.0\Common.Infraestructure.HTTP.AssemblyInfoInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.HTTP\obj\Debug\net6.0\Common.Infraestructure.HTTP.AssemblyInfo.cs
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.HTTP\obj\Debug\net6.0\Common.Infraestructure.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.HTTP\obj\Debug\net6.0\Common.Infraestructure.HTTP.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.HTTP\obj\Debug\net6.0\refint\Common.Infraestructure.HTTP.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.HTTP\obj\Debug\net6.0\Common.Infraestructure.HTTP.pdb
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.HTTP\obj\Debug\net6.0\ref\Common.Infraestructure.HTTP.dll

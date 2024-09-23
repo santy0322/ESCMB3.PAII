@@ -1,0 +1,11 @@
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Infraestructure\bin\Debug\net6.0\Core.Infraestructure.deps.json
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Infraestructure\bin\Debug\net6.0\Core.Infraestructure.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Infraestructure\bin\Debug\net6.0\Core.Infraestructure.pdb
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Infraestructure\obj\Debug\net6.0\Core.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Infraestructure\obj\Debug\net6.0\Core.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Infraestructure\obj\Debug\net6.0\Core.Infraestructure.AssemblyInfo.cs
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Infraestructure\obj\Debug\net6.0\Core.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Infraestructure\obj\Debug\net6.0\Core.Infraestructure.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Infraestructure\obj\Debug\net6.0\refint\Core.Infraestructure.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Infraestructure\obj\Debug\net6.0\Core.Infraestructure.pdb
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Infraestructure\obj\Debug\net6.0\ref\Core.Infraestructure.dll

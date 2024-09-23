@@ -1,0 +1,11 @@
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Repositories.SQL\bin\Debug\net6.0\Common.Application.Repositories.SQL.deps.json
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Repositories.SQL\bin\Debug\net6.0\Common.Application.Repositories.SQL.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Repositories.SQL\bin\Debug\net6.0\Common.Application.Repositories.SQL.pdb
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Repositories.SQL\obj\Debug\net6.0\Common.Application.Repositories.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Repositories.SQL\obj\Debug\net6.0\Common.Application.Repositories.SQL.AssemblyInfoInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Repositories.SQL\obj\Debug\net6.0\Common.Application.Repositories.SQL.AssemblyInfo.cs
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Repositories.SQL\obj\Debug\net6.0\Common.Application.Repositories.SQL.csproj.CoreCompileInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Repositories.SQL\obj\Debug\net6.0\Common.Application.Repositories.SQL.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Repositories.SQL\obj\Debug\net6.0\refint\Common.Application.Repositories.SQL.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Repositories.SQL\obj\Debug\net6.0\Common.Application.Repositories.SQL.pdb
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Application.Repositories.SQL\obj\Debug\net6.0\ref\Common.Application.Repositories.SQL.dll

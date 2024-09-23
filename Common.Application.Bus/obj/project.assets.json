@@ -121,19 +121,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Milton\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\C#\\ESCMB1.PAII\\Common.Application.Bus\\Common.Application.Bus.csproj",
+      "projectUniqueName": "C:\\Users\\Milton\\Source\\Repos\\ESCMB3.PAII\\Common.Application.Bus\\Common.Application.Bus.csproj",
       "projectName": "Common.Application.Bus",
-      "projectPath": "C:\\Users\\admin\\Desktop\\C#\\ESCMB1.PAII\\Common.Application.Bus\\Common.Application.Bus.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\C#\\ESCMB1.PAII\\Common.Application.Bus\\obj\\",
+      "projectPath": "C:\\Users\\Milton\\Source\\Repos\\ESCMB3.PAII\\Common.Application.Bus\\Common.Application.Bus.csproj",
+      "packagesPath": "C:\\Users\\Milton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Milton\\Source\\Repos\\ESCMB3.PAII\\Common.Application.Bus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Milton\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -141,7 +141,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -186,7 +185,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.425\\RuntimeIdentifierGraph.json"
       }
     }
   }

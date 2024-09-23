@@ -1,0 +1,11 @@
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Domain\bin\Debug\net6.0\Core.Domain.deps.json
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Domain\bin\Debug\net6.0\Core.Domain.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Domain\bin\Debug\net6.0\Core.Domain.pdb
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Domain\obj\Debug\net6.0\Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Domain\obj\Debug\net6.0\Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Domain\obj\Debug\net6.0\Core.Domain.AssemblyInfo.cs
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Domain\obj\Debug\net6.0\Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Domain\obj\Debug\net6.0\Core.Domain.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Domain\obj\Debug\net6.0\refint\Core.Domain.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Domain\obj\Debug\net6.0\Core.Domain.pdb
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Core.Domain\obj\Debug\net6.0\ref\Core.Domain.dll

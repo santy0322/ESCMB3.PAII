@@ -7,7 +7,12 @@ using System.Threading.Tasks;
 
 namespace Common.Application.Bus.queries
 {
-    internal interface IRequestQueryHandler<in TRequest, TResponse> where TRequest : IRequest<TResponse>
+    public interface IRequestQueryHandler<in TRequest, TResponse> where TRequest : IRequest<TResponse>
+    {
+    }
+
+    public interface IRequestQueryHandler<in TRequest> : IRequestHandler<TRequest>
+        where TRequest : IRequest
     {
     }
 }

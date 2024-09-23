@@ -1,0 +1,11 @@
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.SQL\bin\Debug\net6.0\Common.Infraestructure.SQL.deps.json
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.SQL\bin\Debug\net6.0\Common.Infraestructure.SQL.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.SQL\bin\Debug\net6.0\Common.Infraestructure.SQL.pdb
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.SQL\obj\Debug\net6.0\Common.Infraestructure.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.SQL\obj\Debug\net6.0\Common.Infraestructure.SQL.AssemblyInfoInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.SQL\obj\Debug\net6.0\Common.Infraestructure.SQL.AssemblyInfo.cs
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.SQL\obj\Debug\net6.0\Common.Infraestructure.SQL.csproj.CoreCompileInputs.cache
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.SQL\obj\Debug\net6.0\Common.Infraestructure.SQL.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.SQL\obj\Debug\net6.0\refint\Common.Infraestructure.SQL.dll
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.SQL\obj\Debug\net6.0\Common.Infraestructure.SQL.pdb
+C:\Users\Milton\Source\Repos\ESCMB3.PAII\Common.Infraestructure.SQL\obj\Debug\net6.0\ref\Common.Infraestructure.SQL.dll

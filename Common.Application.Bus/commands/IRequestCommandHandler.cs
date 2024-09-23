@@ -7,7 +7,13 @@ using System.Threading.Tasks;
 
 namespace Common.Application.Bus.commands
 {
-    internal interface IRequestCommandHandler<in TRequest, TResponse> where TRequest : IRequest<TResponse>
+    public interface IRequestCommandHandler<in TRequest> : IRequestHandler<TRequest>
+        where TRequest : IRequest
+    {
+    }
+
+    public interface IRequestCommandHandler<in TRequest, TResponse> 
+        where TRequest : IRequest<TResponse>
     {
     }
 }
